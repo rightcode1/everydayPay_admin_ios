@@ -1,0 +1,6 @@
+framework module Pods_everydayPay_Admin {
+  umbrella header "Pods-everydayPay_Admin-umbrella.h"
+
+  export *
+  module * { export * }
+}

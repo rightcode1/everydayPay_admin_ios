@@ -1,0 +1,6 @@
+framework module Pods_everydayPay_AdminTests {
+  umbrella header "Pods-everydayPay_AdminTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
